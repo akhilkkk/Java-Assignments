@@ -23,7 +23,6 @@ class Student_assign
   read(this);
  }
 }
-// Main Class
 class assignment_1
 {
  public static void main(String args[])
